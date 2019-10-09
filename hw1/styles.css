@@ -1,0 +1,68 @@
+h1, h2{
+  text-align: center;
+}
+
+body{
+  background-color: grey;
+}
+
+.content{
+  background-color: white;
+  margin: 16px auto;
+  padding: 16px 0px;
+  box-shadow: 0px 0px 4px black;
+  border-radius: 4px;
+  width: 600px;
+}
+
+table{
+  border-collapse: collapse;
+  border-bottom: thin solid #CCCCCC;
+}
+
+th{
+  width: 100px;
+  border-bottom: thin solid #CCCCCC;
+}
+
+tr{
+  border-bottom: thin solid #CCCCCC;
+}
+
+td{
+  border-bottom: thin solid #CCCCCC;
+}
+
+.event{
+  color: white;
+  border-radius: 6px;
+}
+
+.hour{
+  text-align:right;
+}
+
+#david{
+  background-color: green;
+}
+
+#rob{
+  background-color: red;
+}
+
+#tim{
+  background-color: blue;
+}
+
+#jack{
+  background-color: purple;
+}
+
+ul{
+  list-style-type:square;
+}
+
+img{
+  height: 140px;
+  width: 140px;
+}
